@@ -5,7 +5,6 @@
 package uid
 
 import (
-        "bytes"
         "crypto/aes"
         "crypto/cipher"
         "crypto/rand"
